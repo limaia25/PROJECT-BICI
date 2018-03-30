@@ -5,6 +5,7 @@ import org.junit.Before;
 import org.junit.Test;
 
 import com.pers.limaia.bici.aplication.BiciWebApplication;
+import com.pers.limaia.bici.page.HomePage;
 
 /**
  * Simple test using the WicketTester
