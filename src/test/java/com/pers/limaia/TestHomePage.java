@@ -4,6 +4,8 @@ import org.apache.wicket.util.tester.WicketTester;
 import org.junit.Before;
 import org.junit.Test;
 
+import com.pers.limaia.bici.aplication.BiciWebApplication;
+
 /**
  * Simple test using the WicketTester
  */
@@ -14,7 +16,7 @@ public class TestHomePage
 	@Before
 	public void setUp()
 	{
-		tester = new WicketTester(new WicketApplication());
+		tester = new WicketTester(new BiciWebApplication());
 	}
 
 	@Test
