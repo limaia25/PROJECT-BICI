@@ -8,7 +8,7 @@ import org.apache.wicket.model.PropertyModel;
 
 import com.pers.limaia.bici.entities.Pessoa;
 
-public class HomePage extends WebPage {
+public class HomePage extends TemplatePage {
 	private Pessoa pessoaRegisto;
 	private String valorApresentar;
 

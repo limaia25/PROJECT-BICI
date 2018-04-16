@@ -66,3 +66,26 @@ h3 {
 	font-size:24pt;
 	color:#092E67;
 }
+
+/** css personilize*/
+.cabecalho {
+	background-color: #1EA896;
+    color: #523F38;
+    text-align: center;
+    padding: 20px;
+}
+
+.cabecalho .texto{
+	font-size: 500%;
+    font-style: oblique;
+    display: inline-block;
+    float: right;
+    padding-right: 50%;
+    font-family: Comic Sans MS;
+}
+
+.biciLogo{
+	width: 231px;
+    height: 159px;
+    background: url(../img/bicycle_bike_4531.png) 0 0;
+}
