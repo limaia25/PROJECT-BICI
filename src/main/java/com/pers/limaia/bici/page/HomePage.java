@@ -6,7 +6,7 @@ import org.apache.wicket.markup.html.form.Form;
 import org.apache.wicket.markup.html.form.TextField;
 import org.apache.wicket.model.PropertyModel;
 
-import com.pers.limaia.bici.entities.Pessoa;
+import com.pers.limaia.bici.commons.entities.Pessoa;
 
 public class HomePage extends TemplatePage {
 	private Pessoa pessoaRegisto;
